@@ -1,1 +1,9 @@
  -----
+| URL |
+ -----
+URL Layout - https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber=2&price=50001-to-200000
+
+-> pagenumber= | NUMBER
+-> price= | MIN to MAX
+-> cars-for-sale/ | PROVINCE
+
