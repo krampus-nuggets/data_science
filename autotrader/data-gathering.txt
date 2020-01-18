@@ -7,3 +7,10 @@ URL Layout - https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenum
 -> price= | MIN to MAX
 -> cars-for-sale/ | PROVINCE
 
+ -------------
+| Search Page |
+ -------------
+
+Car Tile => .b-result-tile [div - class] | SELECTOR - div > .b-result-tile
+Car URL => SELECTOR - div.b-result-tile > div.e-available > a
+
