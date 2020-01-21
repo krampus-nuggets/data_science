@@ -4,8 +4,8 @@ import time
 import re
 import sys
 
-sys.path.insert(1, "E:\\projects\\python\\data_science\\autotrader")
-saveFile = "E:\\projects\\python\\data_science\\autotrader\\saveFile.txt"
+sys.path.insert(1, "<directory-to-run-script-in-context>")
+saveFile = "<file-save-location>"
 
 def pageDownload(URL):
     return urlopen(URL).read().decode("utf-8")
