@@ -8,6 +8,9 @@ import sys
 
 sys.path.insert(1, "PATH")
 saveFile = "FILE.txt"
+userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36"
+headers = {"User-Agent": userAgent}
+values = {"name": "Chrome"}
 
 def pageDownload(URL):
     return urlopen(URL).read().decode("utf-8")
