@@ -15,10 +15,12 @@ data = urllib.parse.urlencode(values)
 data = data.encode("ascii")
 
 def pageDownload(URL):
-    return urlopen(URL).read().decode("utf-8")
+    req = urllib.request.Request(URL, data, headers)
+    return urllib.request.urlopen(req).read().decode("utf-8")
 
 def savePage(URL, file):
-    page = urlopen(URL).read().decode("utf-8")
+    req = urllib.request.Request(URL, data, headers)
+    page = urllib.request.urlopen(req).read().decode("utf-8")
     proc = open(file, "w")
     proc.write(page)
     proc.close()
