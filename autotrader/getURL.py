@@ -1,4 +1,6 @@
-from urllib.request import urlopen
+import urllib.request
+import urllib.parse
+import random
 from bs4 import BeautifulSoup
 import time
 import re
