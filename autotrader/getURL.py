@@ -37,11 +37,11 @@ def extractHREF():
         proc.close()
 
 if __name__ == "__main__":
-    for i in range(155,165):
-        target = "https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber={}&price=50001-to-200000".format(i)
+    for i in range(1, 147):
+        target = "https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber={}&price=100001-to-200000".format(i)
         savePage(target, saveFile)
         extractHREF()
         print("No: {} => Complete".format(i))
-        time.sleep(10)
+        time.sleep(random.randint(15, 30))
 
 #for i in range(len(pagArr))
