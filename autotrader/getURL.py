@@ -6,8 +6,8 @@ import time
 import re
 import sys
 
-sys.path.insert(1, "<directory-to-run-script-in-context>")
-saveFile = "<file-save-location>"
+sys.path.insert(1, "PATH")
+saveFile = "FILE.txt"
 
 def pageDownload(URL):
     return urlopen(URL).read().decode("utf-8")
