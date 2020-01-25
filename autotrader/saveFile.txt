@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no">
+    
+    <meta name="viewport" content="width=1024" />
+    <link href="/Desktop/Bundles/StyleBundle?v=OZLAxFKnWVsgG8lynkU6YMVvbOAla1r7BE4GQHx4ZY41" rel="stylesheet"/>
+
+
+    <title>New &amp; used cars for sale in Western Cape - AutoTrader</title>
+    <meta name="description" content="Find new &amp; used cars for sale in Western Cape on South Africa&#39;s leading car marketplace with the largest selection of cars for sale.">
+    <link rel="canonical" href="https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber=155">
+        <meta property="og:title" content="New &amp; used cars for sale in Western Cape" />
+        <meta property="og:url" content="https://www.autotrader.co.za/cars-for-sale/western-cape/p-9%3Fpagenumber=155&amp;price=50001-to-200000" />
+        <meta property="og:description" content="Find new &amp; used cars for sale in Western Cape on South Africa&#39;s leading car marketplace with the largest selection of cars for sale." />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@AutoTraderSA" />
+        <meta name="twitter:title" content="New &amp; used cars for sale in Western Cape" />
+        <meta name="twitter:description" content="Find new &amp; used cars for sale in Western Cape on South Africa&#39;s leading car marketplace with the largest selection of cars for sale." />
+    <link rel="prev" href="https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber=154&amp;price=50001-to-200000" />
+    <link rel="next" href="https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenumber=156&amp;price=50001-to-200000" />
+
+    
+
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-27392441-14', 'auto');
+         ga('set', 'contentGroup2', 'Listing Search');
+        ga('set', 'dimension39', 'web');
+    ga('set', 'dimension46', 'Live');
+    ga('set', 'dimension47', '1');
+    ga('set', 'dimension48', 'Desktop');
+    ga('set', 'dimension49', '1');
+    ga('set', 'dimension50', 'AutoTrader');
+    ga('set', 'dimension58', 'false');
+    ga('set', 'dimension59', 'false');
+    ga('set', 'dimension51', 'Search\\Index');
+    ga('set', 'dimension52', 'iyzjj13uq0ovxqs15qhveocp');
+    ga('set', 'dimension53', 'iyzjj13uq0ovxqs15qhveocp');
+    ga('set', 'dimension54', 'iyzjj13uq0ovxqs15qhveocp');
+    ga('set', 'dimension127', '1');
+    ga('set', 'dimension128', 'Cars');
+    ga('set', 'dimension129', '1');
+    ga('set', 'dimension130', 'Cars');
+    ga('set', 'dimension65', '9');
+    ga('set', 'dimension66', 'Western Cape');
+    ga('set', 'dimension72', 'Cars');
+    ga('set', 'dimension63', '50001');
+    ga('set', 'dimension64', '200000');
+    ga('set', 'dimension124', 'Default');
+    ga('set', 'dimension123', '155');
+    ga('set', 'dimension125', '3289');
+
+    ga('send', 'event', 'Search', 'ViewListingResults', { nonInteraction: true });
+        console.log({'event': { 'event_category': 'Search', 'event_action': 'ViewListingResults', 'event_label': '','analytics_model': {
+  "customDimensions": {
+    "dimensions": [
+      {
+        "id": 39,
+        "name": "PlatformType",
+        "value": "web",
+        "customDimensionName": "dimension39"
+      },
+      {
+        "id": 46,
+        "name": "Environment",
+        "value": "Live",
+        "customDimensionName": "dimension46"
+      },
+      {
+        "id": 47,
+        "name": "UIContextId",
+        "value": "1",
+        "customDimensionName": "dimension47"
+      },
+      {
+        "id": 48,
+        "name": "UIContextName",
+        "value": "Desktop",
+        "customDimensionName": "dimension48"
+      },
+      {
+        "id": 49,
+        "name": "UserGroupId",
+        "value": "1",
+        "customDimensionName": "dimension49"
+      },
+      {
+        "id": 50,
+        "name": "UserGroupName",
+        "value": "AutoTrader",
+        "customDimensionName": "dimension50"
+      },
+      {
+        "id": 58,
+        "name": "LoggedIn",
+        "value": "false",
+        "customDimensionName": "dimension58"
+      },
+      {
+        "id": 59,
+        "name": "LoggedIn_Session",
+        "value": "false",
+        "customDimensionName": "dimension59"
+      },
+      {
+        "id": 51,
+        "name": "Template",
+        "value": "Search\\Index",
+        "customDimensionName": "dimension51"
+      },
+      {
+        "id": 52,
+        "name": "UniqueUserId",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension52"
+      },
+      {
+        "id": 53,
+        "name": "UniqueUserId_Session",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension53"
+      },
+      {
+        "id": 54,
+        "name": "UniqueUserId_User",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension54"
+      },
+      {
+        "id": 127,
+        "name": "ChannelId",
+        "value": "1",
+        "customDimensionName": "dimension127"
+      },
+      {
+        "id": 128,
+        "name": "ChannelName",
+        "value": "Cars",
+        "customDimensionName": "dimension128"
+      },
+      {
+        "id": 129,
+        "name": "CategoryId",
+        "value": "1",
+        "customDimensionName": "dimension129"
+      },
+      {
+        "id": 130,
+        "name": "CategoryName",
+        "value": "Cars",
+        "customDimensionName": "dimension130"
+      },
+      {
+        "id": 65,
+        "name": "SearchProvinceId",
+        "value": "9",
+        "customDimensionName": "dimension65"
+      },
+      {
+        "id": 66,
+        "name": "SearchProvinceName",
+        "value": "Western Cape",
+        "customDimensionName": "dimension66"
+      },
+      {
+        "id": 72,
+        "name": "SearchCategory",
+        "value": "Cars",
+        "customDimensionName": "dimension72"
+      },
+      {
+        "id": 63,
+        "name": "SearchMinPrice",
+        "value": "50001",
+        "customDimensionName": "dimension63"
+      },
+      {
+        "id": 64,
+        "name": "SearchMaxPrice",
+        "value": "200000",
+        "customDimensionName": "dimension64"
+      },
+      {
+        "id": 124,
+        "name": "SearchSortOrder",
+        "value": "Default",
+        "customDimensionName": "dimension124"
+      },
+      {
+        "id": 123,
+        "name": "SearchPageNumber",
+        "value": "155",
+        "customDimensionName": "dimension123"
+      },
+      {
+        "id": 125,
+        "name": "SearchResultCount",
+        "value": "3289",
+        "customDimensionName": "dimension125"
+      }
+    ]
+  },
+  "contentGroups": {
+    "contentGroups": [
+      {
+        "id": 2,
+        "name": "Area",
+        "value": "Listing Search",
+        "contentGroupName": "contentGroup2"
+      }
+    ]
+  },
+  "trackingIdentifier": "UA-27392441-14",
+  "userId": null,
+  "eventCategory": "Search",
+  "eventAction": "ViewListingResults",
+  "eventLabel": null,
+  "hasEventDataSet": true
+}}});
+    ga('send', 'pageview');
+
+    console.log({
+        'pageview': {
+            'analytics_model': {
+  "customDimensions": {
+    "dimensions": [
+      {
+        "id": 39,
+        "name": "PlatformType",
+        "value": "web",
+        "customDimensionName": "dimension39"
+      },
+      {
+        "id": 46,
+        "name": "Environment",
+        "value": "Live",
+        "customDimensionName": "dimension46"
+      },
+      {
+        "id": 47,
+        "name": "UIContextId",
+        "value": "1",
+        "customDimensionName": "dimension47"
+      },
+      {
+        "id": 48,
+        "name": "UIContextName",
+        "value": "Desktop",
+        "customDimensionName": "dimension48"
+      },
+      {
+        "id": 49,
+        "name": "UserGroupId",
+        "value": "1",
+        "customDimensionName": "dimension49"
+      },
+      {
+        "id": 50,
+        "name": "UserGroupName",
+        "value": "AutoTrader",
+        "customDimensionName": "dimension50"
+      },
+      {
+        "id": 58,
+        "name": "LoggedIn",
+        "value": "false",
+        "customDimensionName": "dimension58"
+      },
+      {
+        "id": 59,
+        "name": "LoggedIn_Session",
+        "value": "false",
+        "customDimensionName": "dimension59"
+      },
+      {
+        "id": 51,
+        "name": "Template",
+        "value": "Search\\Index",
+        "customDimensionName": "dimension51"
+      },
+      {
+        "id": 52,
+        "name": "UniqueUserId",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension52"
+      },
+      {
+        "id": 53,
+        "name": "UniqueUserId_Session",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension53"
+      },
+      {
+        "id": 54,
+        "name": "UniqueUserId_User",
+        "value": "iyzjj13uq0ovxqs15qhveocp",
+        "customDimensionName": "dimension54"
+      },
+      {
+        "id": 127,
+        "name": "ChannelId",
+        "value": "1",
+        "customDimensionName": "dimension127"
+      },
+      {
+        "id": 128,
+        "name": "ChannelName",
+        "value": "Cars",
+        "customDimensionName": "dimension128"
+      },
+      {
+        "id": 129,
+        "name": "CategoryId",
+        "value": "1",
+        "customDimensionName": "dimension129"
+      },
+      {
+        "id": 130,
+        "name": "CategoryName",
+        "value": "Cars",
+        "customDimensionName": "dimension130"
+      },
+      {
+        "id": 65,
+        "name": "SearchProvinceId",
+        "value": "9",
+        "customDimensionName": "dimension65"
+      },
+      {
+        "id": 66,
+        "name": "SearchProvinceName",
+        "value": "Western Cape",
+        "customDimensionName": "dimension66"
+      },
+      {
+        "id": 72,
+        "name": "SearchCategory",
+        "value": "Cars",
+        "customDimensionName": "dimension72"
+      },
+      {
+        "id": 63,
+        "name": "SearchMinPrice",
+        "value": "50001",
+        "customDimensionName": "dimension63"
+      },
+      {
+        "id": 64,
+        "name": "SearchMaxPrice",
+        "value": "200000",
+        "customDimensionName": "dimension64"
+      },
+      {
+        "id": 124,
+        "name": "SearchSortOrder",
+        "value": "Default",
+        "customDimensionName": "dimension124"
+      },
+      {
+        "id": 123,
+        "name": "SearchPageNumber",
+        "value": "155",
+        "customDimensionName": "dimension123"
+      },
+      {
+        "id": 125,
+        "name": "SearchResultCount",
+        "value": "3289",
+        "customDimensionName": "dimension125"
+      }
+    ]
+  },
+  "contentGroups": {
+    "contentGroups": [
+      {
+        "id": 2,
+        "name": "Area",
+        "value": "Listing Search",
+        "contentGroupName": "contentGroup2"
+      }
+    ]
+  },
+  "trackingIdentifier": "UA-27392441-14",
+  "userId": null,
+  "eventCategory": "Search",
+  "eventAction": "ViewListingResults",
+  "eventLabel": null,
+  "hasEventDataSet": true
+}
+        }
+    });
+</script>
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window,
+        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1732242737059058');
+    fbq('track', "PageView");
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=1732242737059058&ev=PageView&noscript=1" />
+</noscript>
+
+    <script type="text/javascript">
+        var appInsights = window.appInsights || function (a) {
+            function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement("script"); b.src = a.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js", d.getElementsByTagName("script")[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; f.length;)b("track" + f.pop()); if (b("setAuthenticatedUserContext"), b("clearAuthenticatedUserContext"), b("startTrackEvent"), b("stopTrackEvent"), b("startTrackPage"), b("stopTrackPage"), b("flush"), !a.disableExceptionTracking) { f = "onerror", b("_" + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c["_" + f](a, b, d, e, h), i } } return c
+        }({
+            instrumentationKey: "047ba2e7-bd0e-428a-a742-846351bdaa89",
+            isCookieUseDisabled: true
+        });
+
+        window.appInsights = appInsights
+        ;
+    </script>
+
+
+
+    <script type="text/javascript">
+        var callbacks = [];
+        window.$ = function (callback) {
+            callbacks.push(callback);
+        }
+    </script>
+
+
+   
+</head>
+<body>
+    
+
+
+
+
+<div id="react_0XdKl2sYIUy6Dic4sinJ3A"><div data-reactroot=""><div class="b-header"><div class="container"><a href="/" title="Cars for sale in South Africa" class="e-logo"><img src="/Common/Content/Images/Logo/logo-colour.svg"/></a><ul class="e-menu"><li><a href="#">Buy a Car</a><ul><li><a href="/cars-for-sale" title="New &amp; used cars for sale in South Africa">New &amp; Used Cars For Sale</a></li><li><a href="/car-dealers">Find a Dealer</a></li><li><a href="/new-car-specials">New Car Specials</a></li><li><a href="/car-research">Car Research</a></li></ul></li><li><a href="/sell-your-car" title="Sell a Car">Sell a Car</a></li><li><a href="#">News &amp; Reviews</a><ul><li><a href="/cars/news-and-advice" title="Car News and Advice">Automotive News &amp; Advice</a></li><li><a href="/cars/reviews" title="Expert Car Reviews">Expert Car Reviews</a></li><li><a href="/answers" target="_blank">Ask AutoTrader</a></li><li><a href="/autocentral" title="#AutoCentral podcasts">#AutoCentral podcasts</a></li></ul></li><li><a href="#">Tools &amp; Services</a><ul><li><a href="/car-finance-calculator">Finance Calculator</a></li><li><a href="/car-finance" title="Car Finance">Car Finance</a></li><li><a href="/car-insurance" title="Your Car Insurance guide to insuring a vehicle in South Africa ">Car Insurance</a></li><li><a href="https://www.vehiclecheck.co.za/" target="_blank" title="Vehicle Check">Vehicle Check</a></li></ul></li></ul><ul class="e-menu e-login-options"><li><a href="#" class="e-register">Register</a></li><li><a href="#" class="e-signup">Sign in</a></li></ul></div></div></div></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Shared_Header_Header, {"vehicleChannelCategory":{"channel":1,"category":1,"channelOrDefault":1,"categoryOrDefault":1},"buyMenu":{"title":"Buy a Car","menuItems":[{"url":"/cars-for-sale","title":"New & used cars for sale in South Africa","text":"New & Used Cars For Sale","addSeparator":false},{"url":"/car-dealers","text":"Find a Dealer","addSeparator":false},{"url":"/new-car-specials","text":"New Car Specials","addSeparator":false},{"url":"/car-research","text":"Car Research","addSeparator":false}],"imageUrl":"/Common/Content/Images/Icons/buy-a-car-menu.svg","shouldPromptUserLoginRegister":false},"sellMenu":{"title":"Sell a Car","menu":{"url":"/sell-your-car","title":"Sell a Car","text":"Sell a Car","addSeparator":false},"imageUrl":"/Common/Content/Images/Icons/sell-a-car-menu.svg","shouldPromptUserLoginRegister":false},"newsAndReviewsMenu":{"title":"News & Reviews","menuItems":[{"url":"/cars/news-and-advice","title":"Car News and Advice","text":"Automotive News & Advice","addSeparator":false},{"url":"/cars/reviews","title":"Expert Car Reviews","text":"Expert Car Reviews","addSeparator":false},{"url":"/answers","text":"Ask AutoTrader","addSeparator":false,"target":"_blank"},{"url":"/autocentral","title":"#AutoCentral podcasts","text":"#AutoCentral podcasts","addSeparator":false}],"imageUrl":"/Common/Content/Images/Icons/news-menu.svg","shouldPromptUserLoginRegister":false},"toolsMenu":{"title":"Tools & Services","menuItems":[{"url":"/car-finance-calculator","text":"Finance Calculator","addSeparator":false},{"url":"/car-finance","title":"Car Finance","text":"Car Finance","addSeparator":false},{"url":"/car-insurance","title":"Your Car Insurance guide to insuring a vehicle in South Africa ","text":"Car Insurance","addSeparator":false},{"url":"https://www.vehiclecheck.co.za/","title":"Vehicle Check","text":"Vehicle Check","addSeparator":false,"target":"_blank"}],"imageUrl":"/Common/Content/Images/Icons/ownership-menu.svg","shouldPromptUserLoginRegister":false},"homeMenu":{"title":"Home","menu":{"url":"/","title":"Cars for sale in South Africa","text":"Home","addSeparator":false},"imageUrl":"/Common/Content/Images/Icons/vehicle-menu.svg","shouldPromptUserLoginRegister":false},"signInAnchor":{"url":"/login","text":"Sign in for your Shortlist","addSeparator":false},"homepageAnchor":{"url":"/","title":"Cars for sale in South Africa","addSeparator":false},"enableResearchSection":true,"isLoggedIn":false,"isSearchPage":true}), document.getElementById("react_0XdKl2sYIUy6Dic4sinJ3A"));})</script>
+<div id="react_dSTyvrWS0CyylIV9W4w"></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Account_LoginRegisterModal, {"resetPasswordUrl":"/user/password/reset","vehicleChannelCategory":{"channel":1,"category":1,"channelOrDefault":1,"categoryOrDefault":1}}), document.getElementById("react_dSTyvrWS0CyylIV9W4w"));})</script>
+<div id="react_tfChsQSb0Gm6UsGjvJhKw"></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Shared_NearMeModal_NearMeModal, null), document.getElementById("react_tfChsQSb0Gm6UsGjvJhKw"));})</script>
+
+<div class="b-body">
+    
+<div id="react_OEyNKqPFGEGz6lbOctvLjQ"><div class="b-searchbar-wrapper"><div class="b-search-bar"><div class="container"><div class="row"><div class="col-12"><div class="e-search-tabs"><div class="e-tab m-active">Cars<span class="e-caret"></span></div><div class="e-tab">Bikes<span class="e-caret"></span></div><div class="e-tab">Leisure<span class="e-caret"></span></div><div class="e-tab">Commercial<span class="e-caret"></span></div></div></div></div><div class="row"><div class="col-9"><div class="row"><div class="col-12"><div class="b-make-model-select" tabindex="-1"><div><span class="e-caret"></span><input type="text" placeholder="Search Make, Model and Variant" class=" m-has-icon m-has-cars-icon" value=""/></div></div></div></div></div><div class="col-3"><button class="b-btn m-btn-red m-btn-large"><span class="e-button-text">Search</span></button></div></div><div class="row"><div class="col-9"><a href="/" class="e-logo-white"><img src="/Common/Content/Images/Logo/logo-white.svg"/></a><div class="b-dropdown m-transparent m-small" tabindex="-1"><div class="e-header-default">R50 001</div><span class="e-caret"></span></div><div class="b-dropdown m-transparent m-small" tabindex="-1"><div class="e-header-default">R200 000</div><span class="e-caret"></span></div><div class="e-location-wrapper"><div tabindex="-1"><div class="b-dropdown m-transparent"><div class="e-header-default">Western Cape</div><span class="e-caret"></span></div></div></div><div class="b-dropdown m-transparent" tabindex="-1"><div tabindex="-1"><span class="e-header-default">Body Type</span><span class="e-caret"></span></div></div></div><div class="col-3"><div class="e-user-links"><a href="" class="e-reset">Reset</a><span><span class="e-pipe">|</span><a href="" class="e-save-search"><span class="e-button-text">Save Search</span></a></span></div></div></div></div></div></div><div class="container"><div class="row"><div class="col-12"><h1>New &amp; Used Cars For Sale in Western Cape</h1></div><div class="col-12"><ul class="b-breadcrumbs" itemscope="" itemType="http://schema.org/BreadcrumbList" numberofitems="3"><li itemProp="itemListElement" itemscope="" itemType="http://schema.org/ListItem"><a itemscope="" itemType="http://schema.org/Thing" itemProp="item" itemID="/" href="/" title="Cars for sale in South Africa - AutoTrader.co.za"><span itemProp="name">Home</span></a><meta itemProp="position" content="1"/></li><li itemProp="itemListElement" itemscope="" itemType="http://schema.org/ListItem"><a itemscope="" itemType="http://schema.org/Thing" itemProp="item" itemID="/cars-for-sale?pagenumber=155&amp;price=50001-to-200000" href="/cars-for-sale?pagenumber=155&amp;price=50001-to-200000" title="New &amp; used cars for sale in South Africa"><span itemProp="name">Cars For Sale</span></a><meta itemProp="position" content="2"/></li><li itemProp="itemListElement" itemscope="" itemType="http://schema.org/ListItem"><span itemscope="" itemType="http://schema.org/Thing" itemProp="item" itemID="/cars-for-sale/western-cape/p-9?pagenumber=155&amp;price=50001-to-200000" title="New &amp; used cars for sale in Western Cape"><span itemProp="name">Western Cape</span></span><meta itemProp="position" content="3"/></li></ul></div></div><div class="row"><div class="b-search-page-sidebar"><div class="b-advanced-search m-margin-left-default"><div class="b-tile m-margin-small m-no-shadow"><div class="b-advanced-year"><div class="e-heading">YEAR</div><div class="row"><div class="col-6 m-padding-right-0"><div class="b-dropdown" tabindex="-1"><div class="e-header-default">Min</div><span class="e-caret"></span></div></div><div class="col-6 m-padding-left-small"><div class="b-dropdown" tabindex="-1"><div class="e-header-default">Max</div><span class="e-caret"></span></div></div></div><div class="e-heading">MILEAGE</div><div class="b-dropdown" tabindex="-1"><div class="e-header-default">Maximum Mileage (km)</div><span class="e-caret"></span></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">New / Used</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">Manual / Automatic</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">Fuel Type</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">4x2 / 4X4</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">Minimum Engine Capacity</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">Seller Type</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small m-no-shadow" tabindex="-1"><div class="b-accordion"><div class="e-accordion-header m-sidebar-header "><span><span class="e-text-sidebar-accordion">Colour</span></span><img src="/Common/Content/Images/Icons/arrow-down.svg" class="e-arrow"/></div></div></div><div class="b-tile m-margin-small"><div class="b-keyword-select"><input type="text" class="e-input m-has-icon m-has-search-icon m-no-border" placeholder="Search (e.g. Sunroof)" value=""/><div class="e-keyword-collection"></div></div></div></div><div class="e-popular-models"><div class="b-popular-makes-models"><hr/><h3 class="e-title">Popular Makes</h3><ul><li class="e-list-item"><a href="/cars-for-sale/volkswagen" class="e-popular-link">Volkswagen</a></li><li class="e-list-item"><a href="/cars-for-sale/toyota" class="e-popular-link">Toyota</a></li><li class="e-list-item"><a href="/cars-for-sale/ford" class="e-popular-link">Ford</a></li><li class="e-list-item"><a href="/cars-for-sale/bmw" class="e-popular-link">BMW</a></li></ul></div></div><div class="e-popular-dealers"><div class="b-random-dealers"><hr/><h3 class="e-title">Car Dealers</h3><ul><li class="e-list-item"><a href="/dealer/avis-car-sales-wynberg/144" class="e-link">AVIS CAR SALES WYNBERG</a></li><li class="e-list-item"><a href="/dealer/audi-centre-cape-town/326" class="e-link">AUDI CENTRE CAPE TOWN</a></li><li class="e-list-item"><a href="/dealer/rola-cars/1905" class="e-link">ROLA CARS</a></li><li class="e-list-item"><a href="/dealer/action-ford-citrusdal/1228" class="e-link">ACTION FORD CITRUSDAL</a></li></ul></div></div><div class="b-ad-slot-container"><div class="b-ad-slot"><div class="" id="serp_sidebar"></div></div></div></div><div class="b-result-tiles"><div class="b-results-header-bar"><div class="e-sort-results"><span class="e-results-total">3 289</span><span>Results</span></div><div class="e-sort-by"><div class="e-sort-by-text">Sort By</div><div class="e-sort-by-selection"><div class="e-dropdown-wrapper" tabindex="-1"><div class="e-header-default">Default</div><span class="e-caret"></span></div></div></div></div><style type="text/css">.SolversScarcest { position: absolute; left: -5409px } .SolversLoan { position: absolute; left: -7033px } .SolversZoology { position: absolute; left: -9981.5px } .SolversLandward { position: absolute; left: -6853.75px } .SolversResident { position: absolute; left: -9675px } .SolversGoatees { position: absolute; left: -5857px }</style><div class="b-result-hr gm-text-center"><div class="e-text">Featured Listings</div><hr/></div><div class="e-featured-tile-container"><a href="/car-for-sale/ford/ranger/2.2/25312131" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/5071049/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->6</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 124 000</span><span class="e-title">Ford Ranger 2.2Tdci</span><span class="e-type">Used Car</span><span class="e-icons"><span>2015</span><span>178 000 km</span><span>Manual</span></span></span></a></div><div class="e-featured-tile-container"><a href="/car-for-sale/honda/jazz/1.4/25324781" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/5186318/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->7</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 60 000</span><span class="e-title">Honda Jazz 1.4</span><span class="e-type">Used Car</span><span class="e-icons"><span>2006</span><span>170 000 km</span><span>Manual</span></span></span></a></div><div class="e-featured-tile-container"><a href="/car-for-sale/nissan/micra/66kw/25192297" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/3906582/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->7</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 189 900</span><span class="e-title">Nissan Micra 66kW Turbo Visia</span><span class="e-type">Used Car</span><span class="e-icons"><span>2018</span><span>31 091 km</span><span>Manual</span></span></span></a></div><div class="b-result-hr gm-text-center"><div class="e-text">Standard Listings</div><hr/></div><div><div class="b-result-tile SolversHammer"><div class="e-available m-has-photos"><a href="/car-for-sale/renault/kwid/1-l/25291873"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Renault Kwid 1.0 Expression</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2019</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>16 100 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->4STROKE QUALITY PRE-OWNED</span><span class="e-location"><span class="e-suburb">Oakdale</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversSharps"><div class="e-available m-has-photos"><a href="/car-for-sale/cadillac/bls/2.8/24870221"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Cadillac BLS 2.8T V6</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2008</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>176 500 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Automatic</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->MOTORPORT BAYSIDE</span><span class="e-location"><span class="e-suburb">Bothasig</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversFewer"><div class="e-available m-has-photos"><a href="/car-for-sale/tata/xenon/dle/25224142"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Tata Xenon 2.2L DLE</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2012</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>200 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->MOTORPORT BAYSIDE</span><span class="e-location"><span class="e-suburb">Bothasig</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversClayey"><div class="e-available m-has-photos"><a href="/car-for-sale/tata/xenon/dle/25224322"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Tata Xenon 2.2L DLE</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2012</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>200 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->MOTORPORT BAYSIDE</span><span class="e-location"><span class="e-suburb">Bothasig</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversWagers"><div class="e-available m-has-photos"><a href="/car-for-sale/nissan/np200/1.6/25325344"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Nissan NP200 1.6i (Aircon)</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>128 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->GVW MOTORS</span><span class="e-location"><span class="e-suburb">Vredendal</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div class="b-ad-slot"><div class="" id="serp_leader_top"></div></div><div><div class="b-result-tile SolversLoppers"><div class="e-available m-has-photos"><a href="/car-for-sale/volkswagen/up!/take-up/25326328"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Volkswagen up! take up! 3-Door 1.0</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2015</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>111 500 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->WESTVAAL SOMERSET WEST</span><span class="e-location"><span class="e-suburb">Somerset West Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversSparely"><div class="e-available m-has-photos"><a href="/car-for-sale/chevrolet/spark/campus/25247790"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Chevrolet Spark 1.2 Campus</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2016</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>50 600 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->OUDTSHOORN NISSAN</span><span class="e-location"><span class="e-suburb">Oudtshoorn South</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversCurbing"><div class="e-available m-has-photos"><a href="/car-for-sale/nissan/x-trail/2-l/25120428"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Nissan X-Trail 2.0dCi LE</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2009</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>278 273 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->MILNERTON NISSAN</span><span class="e-location"><span class="e-suburb">Milnerton Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversLandward"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i10/motion/25156474"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price"></span><span class="e-title"></span><span class="e-type"></span><span class="e-icons"></span><span class="e-dealer-details"></span></span></a></div></div></div><div><div class="b-result-tile SolversStewed"><div class="e-available m-has-photos"><a href="/car-for-sale/nissan/np200/1.5/25120430"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Nissan NP200 1.5dCi Safety Pack</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>166 303 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->MILNERTON NISSAN</span><span class="e-location"><span class="e-suburb">Milnerton Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversUntraced"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i10/motion/25327569"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Hyundai i10 1.1 Motion</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>52 388 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->HYUNDAI BELLVILLE</span><span class="e-location"><span class="e-suburb">Bellville Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div class="b-featured-dealer"><a href="/dealer/moselbaai-toyota/2009?category=Cars" class="e-link"><span class="e-dealer"><span>Featured Dealer</span><span class="e-dealer-name">MOSELBAAI TOYOTA</span><span class="e-view-more">View more matching vehicles</span></span><span class="e-dealer-logo"><span class="b-gallery-image" style="width:135px;padding-top:75px"><img src="https://img.autotrader.co.za/1902048" alt="" class="e-gallery-image"/></span></span></a><div class="e-dealer-tiles"><div class="e-dealer-tile"><a href="/car-for-sale/toyota/yaris/xr/25271440" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/4688167/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->8</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 129 900</span><span class="e-title">Toyota Yaris 3-Door 1.3 XR</span><span class="e-type">Used Car</span><span class="e-icons"><span>2012</span><span>112 000 km</span><span>Manual</span></span></span></a></div><div class="e-dealer-tile"><a href="/car-for-sale/nissan/np200/1.6/25266754" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/4644864/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->7</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 125 900</span><span class="e-title">Nissan NP200 1.6i (Aircon) Safety Pack</span><span class="e-type">Used Car</span><span class="e-icons"><span>2015</span><span>160 000 km</span><span>Manual</span></span></span></a></div><div class="e-dealer-tile"><a href="/car-for-sale/toyota/corolla/exclusive/25265046" class="b-featured-result-tile"><span class="e-image"><span class="b-gallery-image" style="padding-top:136px"><img src="https://img.autotrader.co.za/4628710/Crop481x298" alt="" class="e-gallery-image"/></span><span class="e-photo-count"><img src="/Common/Content/Images/Icons/photos.svg"/> <!-- -->8</span></span><span class="e-details"><span class="e-favourite-container"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span></span><span class="e-price">R 159 900</span><span class="e-title">Toyota Corolla 2.0 Exclusive</span><span class="e-type">Used Car</span><span class="e-icons"><span>2011</span><span>155 000 km</span><span>Manual</span></span></span></a></div></div></div><div><div class="b-result-tile SolversPullover"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i10/motion/25327579"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Hyundai i10 1.1 Motion</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>51 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->HYUNDAI BELLVILLE</span><span class="e-location"><span class="e-suburb">Bellville Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversWend"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i10/motion/25318601"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Hyundai i10 1.1 Motion</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2016</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>118 895 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->HYUNDAI BELLVILLE</span><span class="e-location"><span class="e-suburb">Bellville Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversParanoia"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i10/motion/25308088"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Hyundai i10 1.1 Motion</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>50 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->HYUNDAI BELLVILLE</span><span class="e-location"><span class="e-suburb">Bellville Central</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversArgues"><div class="e-available m-has-photos"><a href="/car-for-sale/hyundai/i20/glide/25300965"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Hyundai i20 1.4CRDi Glide</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2014</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>137 965 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->IMPERIAL MULTIFRANCHISE PAARDEN EILAND</span><span class="e-location"><span class="e-suburb">Paardeneiland</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversAntlers"><div class="e-available m-has-photos"><a href="/car-for-sale/mitsubishi/mirage/1.2/25307092"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 900</span><span class="e-title">Mitsubishi Mirage 1.2 GLX</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2015</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>91 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->IMPERIAL MULTIFRANCHISE PAARDEN EILAND</span><span class="e-location"><span class="e-suburb">Paardeneiland</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div class="b-ad-slot"><div class="" id="serp_leader_bottom"></div></div><div><div class="b-result-tile SolversFrilly"><div class="e-available m-has-photos"><a href="/car-for-sale/mini/hatch/cooper/25192602"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 800</span><span class="e-title">MINI Hatch Cooper</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2007</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>142 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->LEGENDS AUTO</span><span class="e-location"><span class="e-suburb">Strand North</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversStumbles"><div class="e-available m-has-photos"><a href="/car-for-sale/volkswagen/polo/gti/25304741"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 777</span><span class="e-title">Volkswagen Polo 1.8 GTI</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2007</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>184 623 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->CONCORDE CARS CC</span><span class="e-location"><span class="e-suburb">Gardens</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversResidents"><div class="e-available m-has-photos"><a href="/car-for-sale/bmw/3-series/320i/25320444"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 777</span><span class="e-title">BMW 3 Series 320i Auto</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>2008</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>187 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Automatic</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->CONCORDE CARS CC</span><span class="e-location"><span class="e-suburb">Gardens</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span><span class="e-photos"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversPlainest"><div class="e-available m-has-photos"><a href="/car-for-sale/mercedes-benz/e-class/e300/25100245"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 500</span><span class="e-title">Mercedes-Benz E-Class E300</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>1992</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>212 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Manual</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->ABSOLUTE CARS</span><span class="e-location"><span class="e-suburb">Brooklyn</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div><div class="b-result-tile SolversFinite"><div class="e-available m-has-photos"><a href="/car-for-sale/mercedes-benz/e-class/280e/25133344"><span class="e-image"><span class="e-spinner-container"><span class="b-spinner m-color-blue"><span class="e-dot-1"></span><span class="e-dot-2"></span><span class="e-dot-3"></span></span></span></span><span class="e-details"><span class="e-result-favourite"><span class="b-favourite"><span class="e-favourite-icon"><img src="/Common/Content/Images/Icons/heart-shortlist.svg"/></span></span></span><span class="e-price">R 99 000</span><span class="e-title">Mercedes-Benz E-Class 280E Auto</span><span class="e-type">Used Car</span><span class="e-icons"><span><img src="/Common/Content/Images/Icons/Tile/year.svg"/>1977</span><span><img src="/Common/Content/Images/Icons/Tile/mileage.svg"/>178 000 km</span><span><img src="/Common/Content/Images/Icons/Tile/gearbox.svg"/>Automatic</span></span><span class="e-dealer-details"><span class="e-dealer"><span>Dealer</span> <!-- -->ABSOLUTE CARS</span><span class="e-location"><span class="e-suburb">Brooklyn</span><span class="e-distance"><img class="e-map-icon" src="/Common/Content/Images/Icons/location-blue.svg"/>km from you?</span></span></span></span></a></div></div></div><div class="b-pagination-bar"><a class="gm-float-left e-pagination-link" href="/cars-for-sale/western-cape/p-9?pagenumber=154&amp;price=50001-to-200000"><img src="/Common/Content/Images/Icons/arrow-left.svg" alt="Prev"/></a><div class="gm-show-inline-block"><ul class="e-pages"><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?price=50001-to-200000">1</a></li><li class="e-page-number">...</li><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?pagenumber=153&amp;price=50001-to-200000">153</a></li><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?pagenumber=154&amp;price=50001-to-200000">154</a></li><li class="e-page-number"><a class="m-selected" href="/cars-for-sale/western-cape/p-9?pagenumber=155&amp;price=50001-to-200000">155</a></li><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?pagenumber=156&amp;price=50001-to-200000">156</a></li><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?pagenumber=157&amp;price=50001-to-200000">157</a></li><li class="e-page-number">...</li><li class="e-page-number"><a class="" href="/cars-for-sale/western-cape/p-9?pagenumber=165&amp;price=50001-to-200000">165</a></li></ul></div><a class="gm-float-right e-pagination-link" href="/cars-for-sale/western-cape/p-9?pagenumber=156&amp;price=50001-to-200000"><img src="/Common/Content/Images/Icons/arrow-right.svg" alt="Next"/></a></div></div></div></div><div class="b-popular-dealers"><div class="container"><div class="row"><div class="col-12"><h2 class="e-title">Popular Dealers</h2><div class="e-all-link"><a href="/car-dealers/western-cape/p-9" title="Find car dealers in Western Cape">View All Dealers</a></div></div></div><div class="e-popular-dealer-tile"><a href="/dealer/webuycars-cape-town/1988?category=Cars" title="WEBUYCARS CAPE TOWN dealership in Milnerton" class="e-link"><span class="b-gallery-image" style="width:175px;padding-top:94px"><img src="https://img.autotrader.co.za/2306659/Fit213x160" alt="" class="e-gallery-image"/></span><span class="e-matches">165 Matching Vehicles</span></a></div><div class="e-popular-dealer-tile"><a href="/dealer/milnerton-nissan/484?category=Cars" title="MILNERTON NISSAN dealership in Milnerton" class="e-link"><span class="b-gallery-image" style="width:175px;padding-top:94px"><img src="https://img.autotrader.co.za/1901961/Fit213x160" alt="" class="e-gallery-image"/></span><span class="e-matches">151 Matching Vehicles</span></a></div><div class="e-popular-dealer-tile"><a href="/dealer/outeniqua-motors/483?category=Cars" title="OUTENIQUA MOTORS dealership in George" class="e-link"><span class="b-gallery-image" style="width:175px;padding-top:94px"><img src="https://img.autotrader.co.za/1904007/Fit213x160" alt="" class="e-gallery-image"/></span><span class="e-matches">125 Matching Vehicles</span></a></div><div class="e-popular-dealer-tile"><a href="/dealer/hyundai-bellville/2384?category=Cars" title="HYUNDAI BELLVILLE dealership in Bellville" class="e-link"><span class="b-gallery-image" style="width:175px;padding-top:94px"><img src="https://img.autotrader.co.za/4935309/Fit213x160" alt="" class="e-gallery-image"/></span><span class="e-matches">96 Matching Vehicles</span></a></div><div class="e-popular-dealer-tile"><a href="/dealer/thorp-motor-group/3690?category=Cars" title="THORP MOTOR GROUP dealership in Cape Town" class="e-link"><span class="b-gallery-image" style="width:175px;padding-top:94px"><img src="https://img.autotrader.co.za/1745016/Fit213x160" alt="" class="e-gallery-image"/></span><span class="e-matches">80 Matching Vehicles</span></a></div></div></div></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Search_SearchPageView, {"query":{"vehicleCategory":1,"maxPrice":200000.0,"minPrice":50001.0,"location":{"id":9,"name":"Western Cape","type":1},"sortOrder":0,"pageNumber":155},"results":{"pageNumber":155,"pageCount":165,"featuredTiles":[{"resultType":1,"listingId":25312131,"listingUrl":"/car-for-sale/ford/ranger/2.2/25312131","imageUrl":"https://img.autotrader.co.za/5071049/Crop481x298","imageCount":6,"price":"R 124 000","makeModel":"Ford Ranger","make":"Ford","model":"Ranger","newUsedDescription":"Used Car","dealerType":1,"dealerName":"WEBUYCARS CAPE TOWN","dealerSuburbName":"Montague Gardens","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.86238,"longitude":18.520469},"dealerLogoImageUrl":"https://img.autotrader.co.za/2306659/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2015","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"178 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Ford Ranger 2.2Tdci","isPremium":true,"standOutImageUrls":["https://img.autotrader.co.za/5071050/Crop213x160","https://img.autotrader.co.za/5071051/Crop213x160","https://img.autotrader.co.za/5071052/Crop213x160","https://img.autotrader.co.za/5071053/Crop213x160","https://img.autotrader.co.za/5071054/Crop213x160"]},{"resultType":1,"listingId":25324781,"listingUrl":"/car-for-sale/honda/jazz/1.4/25324781","imageUrl":"https://img.autotrader.co.za/5186318/Crop481x298","imageCount":7,"price":"R 60 000","makeModel":"Honda Jazz","make":"Honda","model":"Jazz","newUsedDescription":"Used Car","dealerType":1,"dealerName":"WEBUYCARS CAPE TOWN","dealerSuburbName":"Montague Gardens","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.86238,"longitude":18.520469},"dealerLogoImageUrl":"https://img.autotrader.co.za/2306659/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2006","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"170 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Honda Jazz 1.4","isPremium":true,"standOutImageUrls":["https://img.autotrader.co.za/5186319/Crop213x160","https://img.autotrader.co.za/5186320/Crop213x160","https://img.autotrader.co.za/5186321/Crop213x160","https://img.autotrader.co.za/5186322/Crop213x160","https://img.autotrader.co.za/5186323/Crop213x160","https://img.autotrader.co.za/5186324/Crop213x160"]},{"resultType":1,"listingId":25192297,"listingUrl":"/car-for-sale/nissan/micra/66kw/25192297","imageUrl":"https://img.autotrader.co.za/3906582/Crop481x298","imageCount":7,"price":"R 189 900","makeModel":"Nissan Micra","make":"Nissan","model":"Micra","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MILNERTON NISSAN","dealerSuburbName":"Milnerton Central","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.882627,"longitude":18.494509},"dealerLogoImageUrl":"https://img.autotrader.co.za/1901961/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2018","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"31 091 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Nissan Micra 66kW Turbo Visia","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/3906583/Crop213x160","https://img.autotrader.co.za/3906584/Crop213x160","https://img.autotrader.co.za/3906585/Crop213x160","https://img.autotrader.co.za/3906586/Crop213x160","https://img.autotrader.co.za/3906587/Crop213x160","https://img.autotrader.co.za/3906588/Crop213x160"]}],"results":[{"resultType":1,"listingId":25291873,"listingUrl":"/car-for-sale/renault/kwid/1-l/25291873","imageUrl":"https://img.autotrader.co.za/4870128/Crop508x373","imageCount":9,"price":"R 99 900","makeModel":"Renault Kwid","make":"Renault","model":"Kwid","newUsedDescription":"Used Car","dealerType":1,"dealerName":"4STROKE QUALITY PRE-OWNED","dealerSuburbName":"Oakdale","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.889975,"longitude":18.631531},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2019","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"16 100 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Renault Kwid 1.0 Expression","isPremium":false,"cssClassName":"SolversHammer","index":3},{"resultType":1,"listingId":24870221,"listingUrl":"/car-for-sale/cadillac/bls/2.8/24870221","imageUrl":"https://img.autotrader.co.za/3530914/Crop508x373","imageCount":9,"price":"R 99 900","makeModel":"Cadillac BLS","make":"Cadillac","model":"BLS","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOTORPORT BAYSIDE","dealerSuburbName":"Bothasig","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.865968,"longitude":18.534444},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2008","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"176 500 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Automatic"}],"makeModelLongVariant":"Cadillac BLS 2.8T V6","isPremium":false,"cssClassName":"SolversSharps","index":4},{"resultType":1,"listingId":25224142,"listingUrl":"/car-for-sale/tata/xenon/dle/25224142","imageUrl":"https://img.autotrader.co.za/4221205/Crop508x373","imageCount":5,"price":"R 99 900","makeModel":"Tata Xenon","make":"Tata","model":"Xenon","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOTORPORT BAYSIDE","dealerSuburbName":"Bothasig","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.865968,"longitude":18.534444},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2012","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"200 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Tata Xenon 2.2L DLE","isPremium":false,"cssClassName":"SolversFewer","index":5},{"resultType":1,"listingId":25224322,"listingUrl":"/car-for-sale/tata/xenon/dle/25224322","imageUrl":"https://img.autotrader.co.za/4222280/Crop508x373","imageCount":7,"price":"R 99 900","makeModel":"Tata Xenon","make":"Tata","model":"Xenon","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOTORPORT BAYSIDE","dealerSuburbName":"Bothasig","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.865968,"longitude":18.534444},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2012","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"200 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Tata Xenon 2.2L DLE","isPremium":false,"cssClassName":"SolversClayey","index":6},{"resultType":1,"listingId":25325344,"listingUrl":"/car-for-sale/nissan/np200/1.6/25325344","imageUrl":"https://img.autotrader.co.za/5191759/Crop508x373","imageCount":6,"price":"R 99 900","makeModel":"Nissan NP200","make":"Nissan","model":"NP200","newUsedDescription":"Used Car","dealerType":1,"dealerName":"GVW MOTORS","dealerSuburbName":"Vredendal","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-31.639121,"longitude":18.528507},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"128 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Nissan NP200 1.6i (Aircon)","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/5191760/Crop213x160","https://img.autotrader.co.za/5191761/Crop213x160","https://img.autotrader.co.za/5191762/Crop213x160","https://img.autotrader.co.za/5191763/Crop213x160","https://img.autotrader.co.za/5191764/Crop213x160"],"cssClassName":"SolversWagers","index":7},{"resultType":2,"slotId":"serp_leader_top","slotSizes":[[670,160]],"divId":"serp_leader_top"},{"resultType":1,"listingId":25326328,"listingUrl":"/car-for-sale/volkswagen/up!/take-up/25326328","imageUrl":"https://img.autotrader.co.za/5201054/Crop508x373","imageCount":20,"price":"R 99 900","makeModel":"Volkswagen up!","make":"Volkswagen","model":"up!","newUsedDescription":"Used Car","dealerType":1,"dealerName":"WESTVAAL SOMERSET WEST","dealerSuburbName":"Somerset West Central","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-34.08576,"longitude":18.845339},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2015","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"111 500 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Volkswagen up! take up! 3-Door 1.0","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/5201055/Crop213x160","https://img.autotrader.co.za/5201056/Crop213x160","https://img.autotrader.co.za/5201057/Crop213x160","https://img.autotrader.co.za/5201058/Crop213x160","https://img.autotrader.co.za/5201059/Crop213x160","https://img.autotrader.co.za/5201060/Crop213x160"],"cssClassName":"SolversLoppers","index":8},{"resultType":1,"listingId":25247790,"listingUrl":"/car-for-sale/chevrolet/spark/campus/25247790","imageUrl":"https://img.autotrader.co.za/4433398/Crop508x373","imageCount":18,"price":"R 99 900","makeModel":"Chevrolet Spark","make":"Chevrolet","model":"Spark","newUsedDescription":"Used Car","dealerType":1,"dealerName":"OUDTSHOORN NISSAN","dealerSuburbName":"Oudtshoorn South","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.592804,"longitude":22.202424},"dealerLogoImageUrl":"https://img.autotrader.co.za/1904135/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2016","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"50 600 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Chevrolet Spark 1.2 Campus","isPremium":false,"cssClassName":"SolversSparely","index":9},{"resultType":1,"listingId":25120428,"listingUrl":"/car-for-sale/nissan/x-trail/2-l/25120428","imageUrl":"https://img.autotrader.co.za/3882265/Crop508x373","imageCount":6,"price":"R 99 900","makeModel":"Nissan X-Trail","make":"Nissan","model":"X-Trail","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MILNERTON NISSAN","dealerSuburbName":"Milnerton Central","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.882627,"longitude":18.494509},"dealerLogoImageUrl":"https://img.autotrader.co.za/1901961/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2009","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"278 273 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Nissan X-Trail 2.0dCi LE","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/3882266/Crop213x160","https://img.autotrader.co.za/3882267/Crop213x160","https://img.autotrader.co.za/3882268/Crop213x160","https://img.autotrader.co.za/3882269/Crop213x160","https://img.autotrader.co.za/3882270/Crop213x160"],"cssClassName":"SolversCurbing","index":10},{"resultType":1,"listingId":25156474,"listingUrl":"/car-for-sale/hyundai/i10/motion/25156474","imageCount":0,"dealerType":0,"showDealerLogo":false,"userHasGeolocation":false,"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"isPremium":false,"cssClassName":"SolversLandward"},{"resultType":1,"listingId":25120430,"listingUrl":"/car-for-sale/nissan/np200/1.5/25120430","imageUrl":"https://img.autotrader.co.za/3882271/Crop508x373","imageCount":7,"price":"R 99 900","makeModel":"Nissan NP200","make":"Nissan","model":"NP200","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MILNERTON NISSAN","dealerSuburbName":"Milnerton Central","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.882627,"longitude":18.494509},"dealerLogoImageUrl":"https://img.autotrader.co.za/1901961/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"166 303 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Nissan NP200 1.5dCi Safety Pack","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/3882272/Crop213x160","https://img.autotrader.co.za/3882273/Crop213x160","https://img.autotrader.co.za/3882274/Crop213x160","https://img.autotrader.co.za/3882275/Crop213x160","https://img.autotrader.co.za/3882276/Crop213x160","https://img.autotrader.co.za/3882277/Crop213x160"],"cssClassName":"SolversStewed","index":11},{"resultType":1,"listingId":25327569,"listingUrl":"/car-for-sale/hyundai/i10/motion/25327569","imageUrl":"https://img.autotrader.co.za/5211519/Crop508x373","imageCount":6,"price":"R 99 900","makeModel":"Hyundai i10","make":"Hyundai","model":"i10","newUsedDescription":"Used Car","dealerType":1,"dealerName":"HYUNDAI BELLVILLE","dealerSuburbName":"Bellville Central","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.902024,"longitude":18.634813},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"52 388 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Hyundai i10 1.1 Motion","isPremium":false,"cssClassName":"SolversUntraced","index":12},{"resultType":3,"id":2009,"name":"MOSELBAAI TOYOTA","logoUrl":"https://img.autotrader.co.za/1902048","dealerUrl":"/dealer/moselbaai-toyota/2009?category=Cars","resultTiles":[{"resultType":1,"listingId":25271440,"listingUrl":"/car-for-sale/toyota/yaris/xr/25271440","imageUrl":"https://img.autotrader.co.za/4688167/Crop481x298","imageCount":8,"price":"R 129 900","makeModel":"Toyota Yaris","make":"Toyota","model":"Yaris","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOSELBAAI TOYOTA","dealerSuburbName":"Diaz Industria","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-34.150046,"longitude":22.100533},"dealerLogoImageUrl":"https://img.autotrader.co.za/1902048/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2012","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"112 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Toyota Yaris 3-Door 1.3 XR","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/4688168/Crop213x160","https://img.autotrader.co.za/4688169/Crop213x160","https://img.autotrader.co.za/4688170/Crop213x160","https://img.autotrader.co.za/4688171/Crop213x160","https://img.autotrader.co.za/4688172/Crop213x160","https://img.autotrader.co.za/4688173/Crop213x160"]},{"resultType":1,"listingId":25266754,"listingUrl":"/car-for-sale/nissan/np200/1.6/25266754","imageUrl":"https://img.autotrader.co.za/4644864/Crop481x298","imageCount":7,"price":"R 125 900","makeModel":"Nissan NP200","make":"Nissan","model":"NP200","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOSELBAAI TOYOTA","dealerSuburbName":"Diaz Industria","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-34.150046,"longitude":22.100533},"dealerLogoImageUrl":"https://img.autotrader.co.za/1902048/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2015","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"160 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Nissan NP200 1.6i (Aircon) Safety Pack","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/4644865/Crop213x160","https://img.autotrader.co.za/4644866/Crop213x160","https://img.autotrader.co.za/4644867/Crop213x160","https://img.autotrader.co.za/4644868/Crop213x160","https://img.autotrader.co.za/4644869/Crop213x160","https://img.autotrader.co.za/4644870/Crop213x160"]},{"resultType":1,"listingId":25265046,"listingUrl":"/car-for-sale/toyota/corolla/exclusive/25265046","imageUrl":"https://img.autotrader.co.za/4628710/Crop481x298","imageCount":8,"price":"R 159 900","makeModel":"Toyota Corolla","make":"Toyota","model":"Corolla","newUsedDescription":"Used Car","dealerType":1,"dealerName":"MOSELBAAI TOYOTA","dealerSuburbName":"Diaz Industria","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-34.150046,"longitude":22.100533},"dealerLogoImageUrl":"https://img.autotrader.co.za/1902048/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2011","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"155 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Toyota Corolla 2.0 Exclusive","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/4628708/Crop213x160","https://img.autotrader.co.za/4628709/Crop213x160","https://img.autotrader.co.za/4628711/Crop213x160","https://img.autotrader.co.za/4628712/Crop213x160","https://img.autotrader.co.za/4628713/Crop213x160","https://img.autotrader.co.za/4628714/Crop213x160"]}]},{"resultType":1,"listingId":25327579,"listingUrl":"/car-for-sale/hyundai/i10/motion/25327579","imageUrl":"https://img.autotrader.co.za/5211620/Crop508x373","imageCount":6,"price":"R 99 900","makeModel":"Hyundai i10","make":"Hyundai","model":"i10","newUsedDescription":"Used Car","dealerType":1,"dealerName":"HYUNDAI BELLVILLE","dealerSuburbName":"Bellville Central","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.902024,"longitude":18.634813},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"51 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Hyundai i10 1.1 Motion","isPremium":false,"cssClassName":"SolversPullover","index":13},{"resultType":1,"listingId":25318601,"listingUrl":"/car-for-sale/hyundai/i10/motion/25318601","imageUrl":"https://img.autotrader.co.za/5130175/Crop508x373","imageCount":6,"price":"R 99 900","makeModel":"Hyundai i10","make":"Hyundai","model":"i10","newUsedDescription":"Used Car","dealerType":1,"dealerName":"HYUNDAI BELLVILLE","dealerSuburbName":"Bellville Central","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.902024,"longitude":18.634813},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2016","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"118 895 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Hyundai i10 1.1 Motion","isPremium":false,"cssClassName":"SolversWend","index":14},{"resultType":1,"listingId":25308088,"listingUrl":"/car-for-sale/hyundai/i10/motion/25308088","imageUrl":"https://img.autotrader.co.za/5034352/Crop508x373","imageCount":9,"price":"R 99 900","makeModel":"Hyundai i10","make":"Hyundai","model":"i10","newUsedDescription":"Used Car","dealerType":1,"dealerName":"HYUNDAI BELLVILLE","dealerSuburbName":"Bellville Central","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.902024,"longitude":18.634813},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"50 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Hyundai i10 1.1 Motion","isPremium":false,"cssClassName":"SolversParanoia","index":15},{"resultType":1,"listingId":25300965,"listingUrl":"/car-for-sale/hyundai/i20/glide/25300965","imageUrl":"https://img.autotrader.co.za/4966962/Crop508x373","imageCount":12,"price":"R 99 900","makeModel":"Hyundai i20","make":"Hyundai","model":"i20","newUsedDescription":"Used Car","dealerType":1,"dealerName":"IMPERIAL MULTIFRANCHISE PAARDEN EILAND","dealerSuburbName":"Paardeneiland","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.918293,"longitude":18.470738},"dealerLogoImageUrl":"https://img.autotrader.co.za/2198563/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2014","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"137 965 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Hyundai i20 1.4CRDi Glide","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/4966963/Crop213x160","https://img.autotrader.co.za/4966964/Crop213x160","https://img.autotrader.co.za/4966965/Crop213x160","https://img.autotrader.co.za/4966966/Crop213x160","https://img.autotrader.co.za/4966967/Crop213x160","https://img.autotrader.co.za/4966968/Crop213x160"],"cssClassName":"SolversArgues","index":16},{"resultType":1,"listingId":25307092,"listingUrl":"/car-for-sale/mitsubishi/mirage/1.2/25307092","imageUrl":"https://img.autotrader.co.za/5028301/Crop508x373","imageCount":12,"price":"R 99 900","makeModel":"Mitsubishi Mirage","make":"Mitsubishi","model":"Mirage","newUsedDescription":"Used Car","dealerType":1,"dealerName":"IMPERIAL MULTIFRANCHISE PAARDEN EILAND","dealerSuburbName":"Paardeneiland","showDealerLogo":true,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.918293,"longitude":18.470738},"dealerLogoImageUrl":"https://img.autotrader.co.za/2198563/Fit120x65","isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2015","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"91 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Mitsubishi Mirage 1.2 GLX","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/5028302/Crop213x160","https://img.autotrader.co.za/5028303/Crop213x160","https://img.autotrader.co.za/5028304/Crop213x160","https://img.autotrader.co.za/5028305/Crop213x160","https://img.autotrader.co.za/5028306/Crop213x160","https://img.autotrader.co.za/5028307/Crop213x160"],"cssClassName":"SolversAntlers","index":17},{"resultType":2,"slotId":"serp_leader_bottom","slotSizes":[[670,160]],"divId":"serp_leader_bottom"},{"resultType":1,"listingId":25192602,"listingUrl":"/car-for-sale/mini/hatch/cooper/25192602","imageUrl":"https://img.autotrader.co.za/3569920/Crop508x373","imageCount":11,"price":"R 99 800","makeModel":"MINI Hatch","make":"MINI","model":"Hatch","newUsedDescription":"Used Car","dealerType":1,"dealerName":"LEGENDS AUTO","dealerSuburbName":"Strand North","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-34.107147,"longitude":18.835928},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2007","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"142 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"MINI Hatch Cooper","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/3569921/Crop213x160","https://img.autotrader.co.za/3569922/Crop213x160","https://img.autotrader.co.za/3569923/Crop213x160","https://img.autotrader.co.za/3569924/Crop213x160","https://img.autotrader.co.za/3569925/Crop213x160","https://img.autotrader.co.za/3569926/Crop213x160"],"cssClassName":"SolversFrilly","index":18},{"resultType":1,"listingId":25304741,"listingUrl":"/car-for-sale/volkswagen/polo/gti/25304741","imageUrl":"https://img.autotrader.co.za/5007427/Crop508x373","imageCount":11,"price":"R 99 777","makeModel":"Volkswagen Polo","make":"Volkswagen","model":"Polo","newUsedDescription":"Used Car","dealerType":1,"dealerName":"CONCORDE CARS CC","dealerSuburbName":"Gardens","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.932526,"longitude":18.419525},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2007","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"184 623 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Volkswagen Polo 1.8 GTI","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/5007428/Crop213x160","https://img.autotrader.co.za/5007429/Crop213x160","https://img.autotrader.co.za/5007430/Crop213x160","https://img.autotrader.co.za/5007431/Crop213x160","https://img.autotrader.co.za/5007432/Crop213x160","https://img.autotrader.co.za/5007433/Crop213x160"],"cssClassName":"SolversStumbles","index":19},{"resultType":1,"listingId":25320444,"listingUrl":"/car-for-sale/bmw/3-series/320i/25320444","imageUrl":"https://img.autotrader.co.za/5147122/Crop508x373","imageCount":11,"price":"R 99 777","makeModel":"BMW 3 Series","make":"BMW","model":"3 Series","newUsedDescription":"Used Car","dealerType":1,"dealerName":"CONCORDE CARS CC","dealerSuburbName":"Gardens","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.932526,"longitude":18.419525},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"2008","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"187 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Automatic"}],"makeModelLongVariant":"BMW 3 Series 320i Auto","isPremium":false,"standOutImageUrls":["https://img.autotrader.co.za/5147123/Crop213x160","https://img.autotrader.co.za/5147124/Crop213x160","https://img.autotrader.co.za/5147125/Crop213x160","https://img.autotrader.co.za/5147126/Crop213x160","https://img.autotrader.co.za/5147127/Crop213x160","https://img.autotrader.co.za/5147128/Crop213x160"],"cssClassName":"SolversResidents","index":20},{"resultType":1,"listingId":25100245,"listingUrl":"/car-for-sale/mercedes-benz/e-class/e300/25100245","imageUrl":"https://img.autotrader.co.za/3994977/Crop508x373","imageCount":11,"price":"R 99 500","makeModel":"Mercedes-Benz E-Class","make":"Mercedes-Benz","model":"E-Class","newUsedDescription":"Used Car","dealerType":1,"dealerName":"ABSOLUTE CARS","dealerSuburbName":"Brooklyn","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.90387,"longitude":18.48703},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"1992","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"212 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Manual"}],"makeModelLongVariant":"Mercedes-Benz E-Class E300","isPremium":false,"cssClassName":"SolversPlainest","index":21},{"resultType":1,"listingId":25133344,"listingUrl":"/car-for-sale/mercedes-benz/e-class/280e/25133344","imageUrl":"https://img.autotrader.co.za/3655204/Crop508x373","imageCount":11,"price":"R 99 000","makeModel":"Mercedes-Benz E-Class","make":"Mercedes-Benz","model":"E-Class","newUsedDescription":"Used Car","dealerType":1,"dealerName":"ABSOLUTE CARS","dealerSuburbName":"Brooklyn","showDealerLogo":false,"userHasGeolocation":false,"dealerLocation":{"latitude":-33.90387,"longitude":18.48703},"isFavourite":false,"isSold":false,"shouldAutoFocus":false,"summaryIcons":[{"url":"/Common/Content/Images/Icons/Tile/year.svg","text":"1977","title":"Registration Year"},{"url":"/Common/Content/Images/Icons/Tile/mileage.svg","text":"178 000 km"},{"url":"/Common/Content/Images/Icons/Tile/gearbox.svg","text":"Automatic"}],"makeModelLongVariant":"Mercedes-Benz E-Class 280E Auto","isPremium":false,"cssClassName":"SolversFinite","index":22}],"resultCount":3289,"useFeaturedTiles":true,"segmentListingsByType":true,"cssClassNames":["SolversScarcest","SolversLoan","SolversZoology","SolversLandward","SolversResident","SolversGoatees"],"hasResults":true},"url":"/cars-for-sale/western-cape/p-9?pagenumber=155&price=50001-to-200000","title":"New & used cars for sale in Western Cape","h1":"New & Used Cars For Sale in Western Cape","breadcrumbs":{"breadcrumbs":[{"url":"/","title":"Cars for sale in South Africa - AutoTrader.co.za","text":"Home","addSeparator":false},{"url":"/cars-for-sale?pagenumber=155&price=50001-to-200000","title":"New & used cars for sale in South Africa","text":"Cars For Sale","addSeparator":false},{"url":"/cars-for-sale/western-cape/p-9?pagenumber=155&price=50001-to-200000","title":"New & used cars for sale in Western Cape","text":"Western Cape","addSeparator":false}]},"sortByModel":{"sortOrder":[{"href":"/cars-for-sale/western-cape/p-9?price=50001-to-200000","id":0,"name":"Default"},{"href":"/cars-for-sale/western-cape/p-9?sortorder=PriceLow&price=50001-to-200000","id":1,"name":"Price low to high"},{"href":"/cars-for-sale/western-cape/p-9?sortorder=PriceHigh&price=50001-to-200000","id":2,"name":"Price high to low"},{"href":"/cars-for-sale/western-cape/p-9?sortorder=Newest&price=50001-to-200000","id":3,"name":"Most recent ads"},{"href":"/cars-for-sale/western-cape/p-9?sortorder=MileageLow&price=50001-to-200000","id":9,"name":"Mileage low to high"},{"href":"/cars-for-sale/western-cape/p-9?sortorder=MileageHigh&price=50001-to-200000","id":10,"name":"Mileage high to low"}]},"searchPager":{"totalCount":3289,"pageSize":20,"currentPage":155,"startIndex":1,"endIndex":21,"pagerLinks":[{"pageNumber":1,"url":"/cars-for-sale/western-cape/p-9?price=50001-to-200000","isCurrent":false,"showEllipses":false,"noFollow":false},{"pageNumber":153,"url":"/cars-for-sale/western-cape/p-9?pagenumber=153&price=50001-to-200000","isCurrent":false,"showEllipses":true,"noFollow":false},{"pageNumber":154,"url":"/cars-for-sale/western-cape/p-9?pagenumber=154&price=50001-to-200000","isCurrent":false,"showEllipses":false,"noFollow":false},{"pageNumber":155,"url":"/cars-for-sale/western-cape/p-9?pagenumber=155&price=50001-to-200000","isCurrent":true,"showEllipses":false,"noFollow":false},{"pageNumber":156,"url":"/cars-for-sale/western-cape/p-9?pagenumber=156&price=50001-to-200000","isCurrent":false,"showEllipses":false,"noFollow":false},{"pageNumber":157,"url":"/cars-for-sale/western-cape/p-9?pagenumber=157&price=50001-to-200000","isCurrent":false,"showEllipses":false,"noFollow":false},{"pageNumber":165,"url":"/cars-for-sale/western-cape/p-9?pagenumber=165&price=50001-to-200000","isCurrent":false,"showEllipses":true,"noFollow":true}],"hasPreviousPage":true,"previousPageUrl":"/cars-for-sale/western-cape/p-9?pagenumber=154&price=50001-to-200000","hasNextPage":true,"nextPageUrl":"/cars-for-sale/western-cape/p-9?pagenumber=156&price=50001-to-200000","pages":[1,153,154,155,156,157,165],"totalPages":165,"hasPages":true,"lastPage":165},"controls":{"totalCount":3289,"categories":[],"categoriesFilteredForDealer":[],"subCategories":[],"minPrices":[{"id":50001,"name":"R50 001"},{"id":100001,"name":"R100 001"},{"id":200001,"name":"R200 001"},{"id":250001,"name":"R250 001"},{"id":300001,"name":"R300 001"},{"id":400001,"name":"R400 001"},{"id":500001,"name":"R500 001"},{"id":600001,"name":"R600 001"},{"id":700001,"name":"R700 001"},{"id":800001,"name":"R800 001"},{"id":900001,"name":"R900 001"},{"id":1000001,"name":"R1 000 001"},{"id":1250001,"name":"R1 250 001"},{"id":1500001,"name":"R1 500 001"},{"id":1750001,"name":"R1 750 001"},{"id":2000001,"name":"R2 000 001"}],"maxPrices":[{"id":50000,"name":"R50 000"},{"id":100000,"name":"R100 000"},{"id":200000,"name":"R200 000"},{"id":250000,"name":"R250 000"},{"id":300000,"name":"R300 000"},{"id":400000,"name":"R400 000"},{"id":500000,"name":"R500 000"},{"id":600000,"name":"R600 000"},{"id":700000,"name":"R700 000"},{"id":800000,"name":"R800 000"},{"id":900000,"name":"R900 000"},{"id":1000000,"name":"R1 000 000"},{"id":1250000,"name":"R1 250 000"},{"id":1500000,"name":"R1 500 000"},{"id":1750000,"name":"R1 750 000"},{"id":2000000,"name":"R2 000 000"}],"locations":[],"bodyTypes":[{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/cabriolet.svg","count":45,"id":1,"name":"Cabriolet"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/coupe.svg","count":41,"id":2,"name":"Coupé"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/crew-bus.svg","count":3,"id":3,"name":"Crew bus"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/double-cab.svg","count":34,"id":4,"name":"Double cab"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/extended-cab.svg","count":3,"id":5,"name":"Extended cab"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/fastback.svg","count":4,"id":6,"name":"Fastback"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/hatchback.svg","count":1688,"id":7,"name":"Hatchback"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/king-cab.svg","count":1,"id":8,"name":"Kingcab"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/lcv.svg","count":7,"id":9,"name":"LCV"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/minibus.svg","count":0,"id":10,"name":"Minibus"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/mpv.svg","count":74,"id":11,"name":"MPV"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/panel-van.svg","count":17,"id":12,"name":"Panel van"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/sedan.svg","count":676,"id":13,"name":"Sedan"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/single-cab.svg","count":256,"id":14,"name":"Single cab"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/sportback.svg","count":13,"id":15,"name":"Sportback"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/station-wagon.svg","count":22,"id":16,"name":"Station wagon"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/super-cab.svg","count":6,"id":17,"name":"Supercab"},{"href":"/Common/Content/Images/Icons/BodyTypes/Cars/suv.svg","count":386,"id":18,"name":"SUV"}],"minYears":[{"id":2020,"name":"2020"},{"id":2019,"name":"2019"},{"id":2018,"name":"2018"},{"id":2017,"name":"2017"},{"id":2016,"name":"2016"},{"id":2015,"name":"2015"},{"id":2014,"name":"2014"},{"id":2013,"name":"2013"},{"id":2012,"name":"2012"},{"id":2011,"name":"2011"},{"id":2010,"name":"2010"},{"id":2009,"name":"2009"},{"id":2008,"name":"2008"},{"id":2007,"name":"2007"},{"id":2006,"name":"2006"},{"id":2005,"name":"2005"},{"id":2004,"name":"2004"},{"id":2003,"name":"2003"},{"id":2002,"name":"2002"},{"id":2001,"name":"2001"},{"id":2000,"name":"2000"},{"id":1999,"name":"1999"},{"id":1998,"name":"1998"},{"id":1997,"name":"1997"},{"id":1996,"name":"1996"},{"id":1995,"name":"1995"},{"id":1994,"name":"1994"},{"id":1993,"name":"1993"},{"id":1992,"name":"1992"},{"id":1991,"name":"1991"},{"id":1990,"name":"1990"}],"maxYears":[{"id":2020,"name":"2020"},{"id":2019,"name":"2019"},{"id":2018,"name":"2018"},{"id":2017,"name":"2017"},{"id":2016,"name":"2016"},{"id":2015,"name":"2015"},{"id":2014,"name":"2014"},{"id":2013,"name":"2013"},{"id":2012,"name":"2012"},{"id":2011,"name":"2011"},{"id":2010,"name":"2010"},{"id":2009,"name":"2009"},{"id":2008,"name":"2008"},{"id":2007,"name":"2007"},{"id":2006,"name":"2006"},{"id":2005,"name":"2005"},{"id":2004,"name":"2004"},{"id":2003,"name":"2003"},{"id":2002,"name":"2002"},{"id":2001,"name":"2001"},{"id":2000,"name":"2000"},{"id":1999,"name":"1999"},{"id":1998,"name":"1998"},{"id":1997,"name":"1997"},{"id":1996,"name":"1996"},{"id":1995,"name":"1995"},{"id":1994,"name":"1994"},{"id":1993,"name":"1993"},{"id":1992,"name":"1992"},{"id":1991,"name":"1991"},{"id":1990,"name":"1990"}],"mileage":[{"count":76,"id":50,"name":"50 km"},{"count":170,"id":1500,"name":"1 500 km"},{"count":262,"id":5000,"name":"5 000 km"},{"count":330,"id":10000,"name":"10 000 km"},{"count":380,"id":15000,"name":"15 000 km"},{"count":454,"id":20000,"name":"20 000 km"},{"count":600,"id":25000,"name":"25 000 km"},{"count":747,"id":30000,"name":"30 000 km"},{"count":982,"id":40000,"name":"40 000 km"},{"count":1174,"id":50000,"name":"50 000 km"},{"count":1360,"id":60000,"name":"60 000 km"},{"count":1504,"id":70000,"name":"70 000 km"},{"count":1679,"id":80000,"name":"80 000 km"},{"count":1844,"id":90000,"name":"90 000 km"},{"count":1997,"id":100000,"name":"100 000 km"},{"count":2279,"id":120000,"name":"120 000 km"},{"count":2673,"id":150000,"name":"150 000 km"}],"transmissionTypes":[{"count":612,"id":2,"name":"Automatic"},{"count":2677,"id":1,"name":"Manual"},{"count":0,"id":3,"name":"Semi Automatic"}],"colours":[{"hexCode":"#F5F5DC","count":43,"id":1,"name":"Beige"},{"hexCode":"#000000","count":101,"id":2,"name":"Black"},{"hexCode":"#0000FF","count":205,"id":3,"name":"Blue"},{"hexCode":"#CD7F32","count":31,"id":4,"name":"Bronze"},{"hexCode":"#A52A2A","count":17,"id":5,"name":"Brown"},{"hexCode":"#800020","count":4,"id":6,"name":"Burgundy"},{"hexCode":"#FFD700","count":35,"id":7,"name":"Gold"},{"hexCode":"#00FF00","count":28,"id":8,"name":"Green"},{"hexCode":"#808080","count":219,"id":9,"name":"Grey"},{"hexCode":"#4B0082","count":0,"id":10,"name":"Indigo"},{"hexCode":"#FF00FF","count":0,"id":11,"name":"Magenta"},{"hexCode":"#800000","count":14,"id":12,"name":"Maroon"},{"hexCode":"#000080","count":7,"id":13,"name":"Navy"},{"hexCode":"#FFA500","count":18,"id":14,"name":"Orange"},{"hexCode":"#FFC0CB","count":0,"id":15,"name":"Pink"},{"hexCode":"#800080","count":4,"id":16,"name":"Purple"},{"hexCode":"#FF0000","count":136,"id":17,"name":"Red"},{"hexCode":"#C0C0C0","count":735,"id":18,"name":"Silver"},{"hexCode":"#40E0D0","count":3,"id":19,"name":"Turquoise"},{"hexCode":"#FFFFFF","count":1313,"id":20,"name":"White"},{"hexCode":"#FFFF00","count":9,"id":21,"name":"Yellow"}],"saleTypes":[],"transmissionDriveTypes":[{"count":106,"id":1,"name":"4x2"},{"count":57,"id":2,"name":"4x4"},{"count":120,"id":3,"name":"All Wheel Drive"},{"count":0,"id":6,"name":"Four Wheel Drive"},{"count":2740,"id":4,"name":"Front Wheel Drive"},{"count":242,"id":5,"name":"Rear Wheel Drive"}],"enginePowersFrom":[],"enginePowersTo":[],"engineCapacitiesFrom":[{"count":2878,"id":1001,"name":"1,0 l"},{"count":2834,"id":1101,"name":"1,1 l"},{"count":2469,"id":1201,"name":"1,2 l"},{"count":2313,"id":1301,"name":"1,3 l"},{"count":1800,"id":1401,"name":"1,4 l"},{"count":1341,"id":1501,"name":"1,5 l"},{"count":706,"id":1601,"name":"1,6 l"},{"count":695,"id":1701,"name":"1,7 l"},{"count":622,"id":1801,"name":"1,8 l"},{"count":613,"id":1901,"name":"1,9 l"},{"count":377,"id":2001,"name":"2,0 l"},{"count":374,"id":2101,"name":"2,1 l"},{"count":174,"id":2601,"name":"2,6 l"},{"count":98,"id":3101,"name":"3,1 l"},{"count":2,"id":5101,"name":"5,1 l"}],"engineCapacitiesTo":[],"dealerTypes":[{"count":39,"id":2,"name":"Private"},{"count":3250,"id":1,"name":"Trade"},{"count":0,"id":3,"name":"Verified Private Vehicle"}],"trailerAxles":[],"hoursInOperationFrom":[],"hoursInOperationTo":[],"fuelTypes":[{"count":399,"id":2,"name":"Diesel"},{"count":0,"id":5,"name":"Electric"},{"count":1,"id":4,"name":"Hybrid"},{"count":2889,"id":1,"name":"Petrol"}],"vehicleConditions":[{"count":23,"id":1,"name":"New"},{"count":3266,"id":2,"name":"Used"}],"makesModels":[]},"popularMakesModels":{"popularMakes":[{"href":"/cars-for-sale/volkswagen","id":0,"name":"Volkswagen"},{"href":"/cars-for-sale/toyota","id":0,"name":"Toyota"},{"href":"/cars-for-sale/ford","id":0,"name":"Ford"},{"href":"/cars-for-sale/bmw","id":0,"name":"BMW"}],"containsPopularMakes":true,"containsPopularModels":false,"hasAnyPopularMakesOrModels":true},"popularDealers":{"headerText":"Popular Dealers","haveDealers":true,"viewAllDealers":{"url":"/car-dealers/western-cape/p-9","title":"Find car dealers in Western Cape","text":"View All Dealers","addSeparator":false},"popularDealers":[{"imageUrl":"https://img.autotrader.co.za/2306659/Fit213x160","dealerLink":{"url":"/dealer/webuycars-cape-town/1988?category=Cars","title":"WEBUYCARS CAPE TOWN dealership in Milnerton","text":"165 Matching Vehicles","addSeparator":false},"dealerId":1988},{"imageUrl":"https://img.autotrader.co.za/1901961/Fit213x160","dealerLink":{"url":"/dealer/milnerton-nissan/484?category=Cars","title":"MILNERTON NISSAN dealership in Milnerton","text":"151 Matching Vehicles","addSeparator":false},"dealerId":484},{"imageUrl":"https://img.autotrader.co.za/1904007/Fit213x160","dealerLink":{"url":"/dealer/outeniqua-motors/483?category=Cars","title":"OUTENIQUA MOTORS dealership in George","text":"125 Matching Vehicles","addSeparator":false},"dealerId":483},{"imageUrl":"https://img.autotrader.co.za/4935309/Fit213x160","dealerLink":{"url":"/dealer/hyundai-bellville/2384?category=Cars","title":"HYUNDAI BELLVILLE dealership in Bellville","text":"96 Matching Vehicles","addSeparator":false},"dealerId":2384},{"imageUrl":"https://img.autotrader.co.za/1745016/Fit213x160","dealerLink":{"url":"/dealer/thorp-motor-group/3690?category=Cars","title":"THORP MOTOR GROUP dealership in Cape Town","text":"80 Matching Vehicles","addSeparator":false},"dealerId":3690}]},"sidebarAdSlot":{"parameters":{"resultType":2,"slotId":"serp_sidebar","slotSizes":[[270,300],[270,600]],"divId":"serp_sidebar"},"targetingKeys":{"targetingKeys":[{"key":"VEHICLE_CATEGORY","values":["CARS"]},{"key":"PRICE","values":["50001-to-$200000"]},{"key":"REGION","values":["9-Western Cape"]},{"key":"PLATFORM","values":["DESKTOP"]}]},"debugSettings":{"showTestAds":false,"isInDebugMode":false}},"randomDealers":{"haveDealers":true,"dealers":[{"dealerName":"AVIS CAR SALES WYNBERG","dealerUrl":"/dealer/avis-car-sales-wynberg/144"},{"dealerName":"AUDI CENTRE CAPE TOWN","dealerUrl":"/dealer/audi-centre-cape-town/326"},{"dealerName":"ROLA CARS","dealerUrl":"/dealer/rola-cars/1905"},{"dealerName":"ACTION FORD CITRUSDAL","dealerUrl":"/dealer/action-ford-citrusdal/1228"}],"category":"Car"}}), document.getElementById("react_OEyNKqPFGEGz6lbOctvLjQ"));})</script>
+
+</div>
+
+<div class="b-newsletter">
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <h3>Sign up to our weekly Newsletter</h3>
+            </div>
+            <div class="col-7">
+                <div id="react_newsletterFooter"><form novalidate=""><input type="email" required="" class="e-input" placeholder="Your Email" name="email" value=""/><button type="submit" class="b-btn m-btn-blue"><span class="e-button-text">Sign Up</span></button><div class="b-newsletter-validation"></div></form></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Shared_Newsletter_Newsletter, {"vehicleCategory":1,"vehicleChannel":1}), document.getElementById("react_newsletterFooter"));})</script>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="b-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-3 e-footer-column">
+                <div class="gm-font-weight-medium">AutoTrader</div>
+                <ul class="e-footer-menu">
+                    <li>
+                        <a href="/about" title="About Us">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/contact-us" title="Contact Us">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="https://www.autotradercareers.co.za" title="Work For AutoTrader" target="_blank">Work For AutoTrader</a>
+                    </li>
+                    <li>
+                        <a href="https://www.surveymonkey.com/r/H8G6X3Q" title="Feedback" target="_blank">Feedback</a>
+                    </li>
+                    <li>
+                        <a href="/faq" title="Frequently Asked Questions">Frequently Asked Questions</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-3 e-footer-column">
+                <div class="gm-font-weight-medium">Dealers</div>
+                <ul class="e-footer-menu">
+                    <li>
+                        <a href="https://www.autofuzion.co.za" title="Autofuzion" target="_blank">Autofuzion</a>
+                    </li>
+                    <li>
+                        <a href="https://dealer.autotrader.co.za" title="Dealer Portal" target="_blank">Dealer Portal</a>
+                    </li>
+                    <li>
+                        <a href="http://calltracker.autotrader.co.za" title="Call Tracker" target="_blank">Call Tracker</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-3 e-footer-column">
+                <div class="gm-font-weight-medium">Other Vehicles</div>
+                <ul class="e-footer-menu">
+                    <li>
+                        <a href="/" title="Cars for sale in South Africa">Used & New Cars</a>
+                    </li>
+                    <li>
+                        <a href="/bikes" title="Bikes for sale in South Africa">Bikes</a>
+                    </li>
+                    <li>
+                        <a href="/trucks" title="Trucks for sale in South Africa">Trucks, Tractors, Vans & More</a>
+                    </li>
+                    <li>
+                        <a href="/boats" title="Boats for sale in South Africa">Boats & Caravans</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-3 e-footer-column">
+                <div class="gm-font-weight-medium">Services</div>
+                <ul class="e-footer-menu">
+                    <li>
+                        <a href="/car-finance-calculator" title="Finance Calculator">Finance Calculator</a>
+                    </li>
+                        <li>
+                            <a href="/car-finance" title="Car Finance">Car Finance</a>
+                        </li>
+                                            <li>
+                            <a href="/car-insurance" title="Your Car Insurance guide to insuring a vehicle in South Africa ">Car Insurance</a>
+                        </li>
+                    <li>
+                        <a href="https://www.vehiclecheck.co.za/" title="Vehicle Check" target="_blank">Vehicle Check</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-3 e-footer-column">
+                <div class="gm-font-weight-medium">Customers</div>
+                <ul class="e-footer-menu">
+                    <li>
+                        <div id="react_THpfgHQd4ECcJPmt1Vocqg"><span data-reactroot="">Sell a Car</span></div>
+<script>$(function(){ReactDOM.hydrate(React.createElement(window.Desktop_Views_Shared_LoginRegisterPrompt_LoginRegisterPrompt, {"url":"/sell-your-car","title":"Sell a Car","text":"Sell a Car","addSeparator":false}), document.getElementById("react_THpfgHQd4ECcJPmt1Vocqg"));})</script>
+                    </li>
+                    <li>
+                        <a href="/safety-and-security" title="Safety and Security">Safety and Security</a>
+                    </li>
+                    <li>
+                        <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="/terms-conditions" title="Terms and Conditions">Terms & Conditions</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="e-footer-bottom">
+                    <a href="/" title="AutoTrader" class="e-footer-logo">
+                        <img src="/Common/Content/Images/Logo/logo-colour.svg" />
+                    </a>
+                    <span class="e-copyright">&copy; Copyright 2020 The Car Trader (Pty) Ltd.</span>
+                    <div class="e-apps">
+                        Download The App
+                        <a href="https://play.google.com/store/apps/details?id=za.co.autotrader.android.app&amp;hl=en_ZA" title="Get the AutoTrader App on Google Play" target="_blank">
+                            <img src="/Common/Content/Images/Social/google-play.svg" />
+                        </a>
+                        <a href="https://itunes.apple.com/za/app/autotrader-south-africa/id574828253" title="Get the AutoTrader App at the App Store" target="_blank">
+                            <img src="/Common/Content/Images/Social/apple.svg" />
+                        </a>
+                    </div>
+                    <div class="e-social-media">
+                        <div class="b-social-media">
+        <a href="https://www.facebook.com/AutoTraderSA" title="Follow us on Facebook" target="_blank" class="e-social-link">
+            <img class="e-social-icon" src="/Common/Content/Images/Social/facebook.svg" />
+        </a>
+        <a href="https://twitter.com/AutoTraderSA" title="Follow us on Twitter" target="_blank" class="e-social-link">
+            <img class="e-social-icon" src="/Common/Content/Images/Social/twitter.svg" />
+        </a>
+        <a href="https://www.youtube.com/c/autotradersa" title="Subscribe to our YouTube channel" target="_blank" class="e-social-link">
+            <img class="e-social-icon" src="/Common/Content/Images/Social/youtube.svg" />
+        </a>
+        <a href="https://za.pinterest.com/autotradersa/" title="Follow us on Pinterest" target="_blank" class="e-social-link">
+            <img class="e-social-icon" src="/Common/Content/Images/Social/pinterest.svg" />
+        </a>
+        <a href="https://www.instagram.com/autotradersa/" title="Follow us on Instagram" target="_blank" class="e-social-link">
+            <img class="e-social-icon" src="/Common/Content/Images/Social/instagram.svg" />
+        </a>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <script src="/Common/CommonBundle?v=lorhlM-M19Mxcj7lR-8-YZjeuGjelv2GZM7EOp2sxnQ1"></script>
+
+    <script src="/Desktop/Bundles/ScriptBundle?v=R3RenHXfr_uKD6n7RLFJr1x_qEFlqbliZbNMHC1b9gw1"></script>
+
+
+    <script type="text/javascript">
+        define("react", React);
+        define("react-dom", ReactDOM);
+        define("photoswipe", PhotoSwipe);
+        require("Desktop/Server");
+    </script>
+
+<script type="text/javascript">
+    require("Common/Startup");
+
+    window.autotrader.setSettings({"googleMapsApiKey":"AIzaSyALIdM_Kx_O0u1wMrYLdfd8spOM76MlSsY","isRecaptchaEnabled":true,"reCaptchaSiteKey":"6LdpApoUAAAAAJcEWuy-3Qh7ZS2pyWdgtsRY52gV","showTestDfpAds":false,"primeInterestRate":"10.00"});
+    window.autotrader.setNearMeStore(null);
+</script>
+
+<script>
+    callbacks.forEach(function (callback) {
+        try {
+            callback();
+        }
+        catch (ex) {
+            console.error(ex);
+        }
+    });
+
+    window.$ = function (callback) { callback(); }
+</script>
+
+
+</body>
+</html>

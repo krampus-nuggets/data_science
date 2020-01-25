@@ -13,6 +13,8 @@ URL Layout - https://www.autotrader.co.za/cars-for-sale/western-cape/p-9?pagenum
 
 Car Tile => .b-result-tile [div - class] | SELECTOR - div > .b-result-tile
 Car URL => SELECTOR - div.b-result-tile > div.e-available > a
+Car Title => SELETOR span.e-title
+Car Type => SELECTOR span.e-type
 
  ----------
 | Car Page |
