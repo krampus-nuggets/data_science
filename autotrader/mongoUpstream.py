@@ -34,3 +34,7 @@ dummyCars = [
     }
 ]
 
+def writeData():
+    db.Cars.insert_many(dummyCars)
+    print("WRITE: Complete")
+
