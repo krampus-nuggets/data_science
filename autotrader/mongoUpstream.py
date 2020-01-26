@@ -38,3 +38,6 @@ def writeData():
     db.Cars.insert_many(dummyCars)
     print("WRITE: Complete")
 
+def indexCollection():
+    db.Cars.create_index([("autotrader_id", pymongo.ASCENDING)], unique=True)
+
