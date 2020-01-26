@@ -51,3 +51,8 @@ def checkIndex():
         "price": "R 78 000"
     })
 
+writeData()
+#indexCollection()
+#checkIndex()
+
+print("ADD DOCUMENTS: Complete")
