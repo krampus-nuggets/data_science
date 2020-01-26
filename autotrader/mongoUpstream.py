@@ -41,3 +41,13 @@ def writeData():
 def indexCollection():
     db.Cars.create_index([("autotrader_id", pymongo.ASCENDING)], unique=True)
 
+def checkIndex():
+    db.Cars.insert_one({
+        "autotrader_id": "autotrader-11374238-ea4f-490f-bc4e-ea048559265d",
+        "site": "autotrader.co.za",
+        "brand": "Audi",
+        "title": "2010 Audi A3 3-Door 1.8T Ambition",
+        "area": "Montague Gardens",
+        "price": "R 78 000"
+    })
+
